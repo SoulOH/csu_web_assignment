@@ -39,10 +39,8 @@ nav a {
 /* Content Container */
 
 .content {
-  height: 500px;
   margin: 10px auto;
   width: 100%;
-  overflow: scroll;
 }
 
 /* Content Header */
