@@ -46,7 +46,7 @@ nav a {
 
 .header {
   height: 320px;
-  background: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-6/htmlcss1-img_burgerphoto.jpeg") center;
+  background: url("../img/burgerphoto.jpeg") center;
   background-size: cover;
   padding: 0;
 }
