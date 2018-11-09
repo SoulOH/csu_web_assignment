@@ -1,7 +1,7 @@
 /* Universal Styles */
 
 body {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-6/htmlcss1-img_foodlogo.png");
+  background-image: url("../img/foodlogo.png");
   text-align: center;
   font-family: 'Roboto', sans-serif;
   font-size: 18px;
